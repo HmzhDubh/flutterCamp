@@ -1,7 +1,7 @@
-### This is a practice application
-# Booky: A Books System using API
+# This is a practice application
+## Booky: A Books System using API
 
-## A functional Flutter project written in Dart that helps in using Firebase Authentication, API, and BLoC state management
+### A functional Flutter project written in Dart that helps in using Firebase Authentication, API, and BLoC state management
 
 This project is an example that will be bulit along with FLutter Bootcamp that organized by Flutter Community in KAU. The project will helps how to do the following:
 
@@ -13,7 +13,7 @@ This project is an example that will be bulit along with FLutter Bootcamp that o
 * BloC state management
 * Languages and Localization
 
-## How install the project
+### How install the project
 
 To get started with this flutter project follow these steps:
 
@@ -24,10 +24,10 @@ To get started with this flutter project follow these steps:
 5. Connect your device or start an emulator, and then run the application using the following command "flutter run"
 6. The application should be started running on your device or emulator
 
-## How to edit this project for your own uses
+### How to edit this project for your own uses
 
 Since this is an educational purpose project, you can clone it and rename the prject to use it for more pracitces! It's a good time to continue the jouney!
 
-## Work in progress..
+### Work in progress..
 
 This project will be built during the Flutter Bootcamp that organized by Flutter Community in KAU. The project files will be updated after each day of the Flutter Bootcamp.
